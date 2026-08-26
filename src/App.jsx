@@ -90,8 +90,6 @@ function App() {
             <p className="lead">
               I’m Gabriel, a software development student focused on backend development. I’m passionate about creating efficient and scalable solutions that make a positive impact.
             </p>
-
-           
             <ul className="stats" aria-label="Portfolio quick summary">
               <li>
                 <strong>2+</strong>
@@ -121,7 +119,7 @@ function App() {
 
         <section className="intro-panel section-reveal">
           <p>
-            My focus is on backend development I want to learn even more about databases and how to work with them, but I can also do some frontend work. I’m currently learning React, Next.js and framer motionto expand my skill set and build more dynamic web applications.
+            My focus is on backend development I want to learn even more about databases and how to work with them, but I can also do some frontend work. I’m currently learning React and framer motionto expand my skill set and build more dynamic web applications.
           </p>
         </section>
 
