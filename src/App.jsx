@@ -24,7 +24,6 @@ const skills = [
   'Responsive web design',
   'HTML, CSS, JavaScript, React',
   'Backend development',
-  'Clean, readable code',
   'Continuous learning mindset',
 ]
 
