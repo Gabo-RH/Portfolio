@@ -119,7 +119,7 @@ function App() {
 
         <section className="intro-panel section-reveal">
           <p>
-            My focus is on backend development I want to learn even more about databases and how to work with them, but I can also do some frontend work. I’m currently learning React and framer motionto expand my skill set and build more dynamic web applications.
+            My focus is on backend development I want to learn even more about databases and how to work with them, but I can also do some frontend work. I’m currently learning React and framer motion expand my skill set and build more dynamic web applications.
           </p>
         </section>
 
