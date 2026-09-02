@@ -89,29 +89,11 @@ function App() {
             <p className="lead">
               I’m Gabriel, a software development student focused on backend development. I’m passionate about creating efficient and scalable solutions that make a positive impact.
             </p>
-            <ul className="stats" aria-label="Portfolio quick summary">
-              <li>
-                <strong>2+</strong>
-                <span>Years learning</span>
-              </li>
-              <li>
-                <strong>3</strong>
-                <span>Languages</span>
-              </li>
-              <li>
-                <strong>1</strong>
-                <span>Portfolio</span>
-              </li>
-            </ul>
           </div>
 
           <div className="hero-visual">
             <div className="portrait-frame">
               <img src="me.png" alt="Gabriel Rodriguez Herrera portrait" />
-            </div>
-            <div className="mini-badge">
-              <span className="status-dot" />
-              Available for stage
             </div>
           </div>
         </section>
